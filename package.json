@@ -1,0 +1,31 @@
+{
+  "name": "deepdream",
+  "version": "0.1.0",
+  "description": "Deepdreams in javascript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicola/node-deepdream.git"
+  },
+  "keywords": [
+    "deepdream",
+    "ai",
+    "neural",
+    "networks"
+  ],
+  "author": "Nicola Greco <me@nicola.io> (http://nicolagreco.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicola/node-deepdream/issues"
+  },
+  "homepage": "https://github.com/nicola/node-deepdream",
+  "dependencies": {
+    "debug": "^2.2.0"
+  }
+}
